@@ -6,10 +6,10 @@
 
 **Trabalho de cliente:** site completo de associação comunitária onde a própria diretoria edita tudo — notícias, fotos, documentos e textos — sem depender de programador.
 
-[![status](https://img.shields.io/badge/status-NO%20AR-d62828)](https://ascef-pvh.web.app)
-![stack](https://img.shields.io/badge/React%2019-Tailwind%20v4-003049)
-![backend](https://img.shields.io/badge/Firebase-Firestore%20%2B%20Auth-f77f00)
-![lgpd](https://img.shields.io/badge/LGPD-privacy%20by%20design-fcbf49)
+[![status](https://img.shields.io/badge/status-NO%20AR-d62828?style=for-the-badge&labelColor=0b0e17)](https://ascef-pvh.web.app)
+![stack](https://img.shields.io/badge/React%2019-Tailwind%20v4-003049?style=for-the-badge&labelColor=0b0e17)
+![backend](https://img.shields.io/badge/Firebase-Firestore%20%2B%20Auth-f77f00?style=for-the-badge&labelColor=0b0e17)
+![lgpd](https://img.shields.io/badge/LGPD-privacy%20by%20design-fcbf49?style=for-the-badge&labelColor=0b0e17)
 
 **[Ver o site no ar](https://ascef-pvh.web.app)** · **[Página do projeto](https://paulocodex.com/p/ascef)** · **[Quer um igual? Fale comigo](https://paulocodex.com)**
 
