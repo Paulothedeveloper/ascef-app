@@ -46,6 +46,14 @@ A **ASCEF** (Associação Cultural, Educacional e de Promoção Social do Bairro
 
 ---
 
+## 🥷 Mascote
+
+<img src="https://paulocodex.com/brand/ninjas/ascef.png" alt="ASCEF — ninja" width="200" align="right" />
+
+Todo projeto do estúdio tem o **ninja Codex** na cor da sua identidade — o mesmo mascote da casa, recolorido pro tema do **ASCEF**.
+
+<br clear="right" />
+
 ## 👤 Sobre o desenvolvedor
 
 <img src="https://paulocodex.com/products/paulo.jpg" alt="Paulo Adriel" width="130" align="left" style="margin-right:18px;border-radius:12px" />
